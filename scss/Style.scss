@@ -1,0 +1,14 @@
+$body-bg: #fcfcfc;
+body {
+    background: $body-bg;
+}
+
+header {
+    display: block
+}
+
+.container-affix {
+    margin-top: 50px;
+    padding: 40px 15px;
+    text-align: center;
+}

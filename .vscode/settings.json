@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "shortcuts.buttons": [
+        "terminal , workbench.action.terminal.toggleTerminal , Toggle terminal panel"
+    ], 
+    "beautify.onSave": true,
+    "explorer.openEditors.visible": 0
+}
